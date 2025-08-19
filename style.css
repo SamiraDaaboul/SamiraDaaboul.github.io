@@ -147,7 +147,7 @@
         }
 
         body {
-            font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+              font-family: 'Tajawal', sans-serif;
             line-height: 1.7;
             color: var(--text-primary);
             scroll-behavior: smooth;
@@ -1265,5 +1265,6 @@ nav ul li a i {
 nav ul li a:hover i {
     color: #25D366;       /* WhatsApp green hover or any color you want */
 }
+
 
 
